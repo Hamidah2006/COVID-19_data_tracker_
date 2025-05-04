@@ -1,0 +1,11 @@
+### Key Insights:
+
+- The United States experienced the highest total number of cases and deaths.
+- India's vaccination rollout gained momentum in mid-2021.
+- Kenya had fewer reported cases and deaths but also slower vaccination rates.
+- Death rates peaked during early waves but declined with vaccine introduction.
+- Choropleth maps reveal stark differences in global vaccine access.
+
+### Conclusion:
+
+This analysis provides a snapshot of the COVID-19 pandemic’s global progression, highlighting disparities in healthcare access and response strategies. Future analysis can include ICU, hospitalization, or variant tracking data.
